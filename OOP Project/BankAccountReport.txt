@@ -1,0 +1,6 @@
+///Account///
+Cash: $66
+Debit: $6
+Credit: $6	Rate: 60% per month
+Savings: $66	Rate: 60% per month
+

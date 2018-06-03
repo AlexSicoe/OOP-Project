@@ -1,0 +1,28 @@
+#1///Expenditure///
+Name: CheltuialaMancare
+Type: Food
+Cost: $2000
+Date: Thu Feb  1 00:00:00 2018
+Paid: Yes
+
+#2///Expenditure///
+Name: CheltuialaPC
+Type: PC
+Cost: $3000
+Date: Thu Feb  1 04:00:00 2018
+Paid: Yes
+
+#3///Expenditure///
+Name: CheltuialaImbracaminte
+Type: Clothing
+Cost: $200
+Date: Thu Feb  1 06:50:30 2018
+Paid: No
+
+#4///Expenditure///
+Name: rhsoihser
+Type: ConsumerProduct
+Cost: $924592
+Date: Thu Feb  8 12:31:25 2018
+Paid: Yes
+

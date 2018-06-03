@@ -1,0 +1,6 @@
+Username: JohnDoe
+Number of expenditures: 4
+Sum of paid expenditures : $929592
+Sum of payable expenditures: $200
+Total sum of expenditures: $929792
+
